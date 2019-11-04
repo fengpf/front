@@ -52,7 +52,7 @@ npm run dev
 
 ### 解决 npm ERR! code ELIFECYCLE
 
-npm cache clean --force
-rm -rf node_modules
-rm -f  package-lock.json
-npm install
+>1.npm cache clean --force  
+>2.rm -rf node_modules  
+>3.rm -f  package-lock.json  
+>4.npm install  
